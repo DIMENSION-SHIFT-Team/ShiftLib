@@ -1,5 +1,7 @@
 package shift;
 
+import flixel.text.FlxText;
+
 class ShiftState extends FlxState
 {
     public var camGame(get, never):FlxCamera;
