@@ -1,0 +1,13 @@
+{
+  "name": "ShiftLib",
+  "url" : "https://github.com/DIMENSION-SHIFT-Team/ShiftLib/",
+  "license": "MIT",
+  "description": "",
+  "version": "1.0.0",
+  "classPath": "",
+  "releasenote": "",
+  "contributors": ["Sophie720"],
+  "dependencies": {
+    "flixel": ""
+  }
+}
